@@ -18,6 +18,8 @@ _Мое резюме вы можете найти по [ссылке](https://hh
   -   [Пример реального тестового задания](https://docs.google.com/spreadsheets/d/13d0TQKkRAbtvjltyE7mrrztiXXllIjQJ/edit?usp=sharing&ouid=112920237054793487303&rtpof=true&sd=true)
 - API 
   -  [Тестирование запросов API](https://docs.google.com/spreadsheets/d/1_kIlpXzw-VzLYiiAj0ESX7XJAzU9IC2IkBq6Cu-LGs4/edit?usp=sharing)
+  -  SQL
+  -  [Работа с таблицами SQL](https://drive.google.com/drive/folders/1wB6hd5b2JThmxGNXouegcnJ7YcwiJW7l?usp=sharing)
     
 ## Инструменты и технологии
 
